@@ -1,7 +1,5 @@
-# Hello, World!
+# Zachary Muranaka
 
-👨‍💻 Computer science student at Weber State University.
+[My GitHub Pages](https://zmuranaka.github.io)
 
-📧 zacharymuranaka@mail.weber.edu
-
-![Zachary Muranaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmuranaka&show_icons=true&count_private=true&hide_rank=true)
+[My Gists](https://gist.github.com/zmuranaka)
