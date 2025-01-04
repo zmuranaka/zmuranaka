@@ -1,5 +1,3 @@
 # Zachary Muranaka
 
-[My Portfolio](https://zmuranaka.github.io)
-
-[My Gists](https://gist.github.com/zmuranaka)
+To learn a bit more about me and my work, check out [my portfolio](https://zmuranaka.dev)!
